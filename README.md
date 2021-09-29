@@ -47,9 +47,9 @@ pkg install python -y
 
 git clone https://github.com/israfilkhanworld/anonymous.git
 
-ls
-
 cd anonymous
+
+ls
 
 chmod +x anonymous.py
 
